@@ -1,6 +1,11 @@
 /*>Discente: Andreza Vilar de Farias
 >Disciplina: Técnicas de Programação
->Turma: 02 */
+>Turma: 02 
+
+O código consiste em um algoritmo para verificar a manutenção de uma bateria veicular
+
+*/
+
 
 #include <iostream>
 #include <iomanip>
